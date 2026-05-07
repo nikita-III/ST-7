@@ -71,5 +71,6 @@ public class Task3 {
             System.out.println("Error");
             System.out.println(e.toString());
         }
+        return;
     }
 }

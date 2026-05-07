@@ -16,5 +16,6 @@ public class Task2 {
             System.out.println("Error");
             System.out.println(e.toString());
         }
+        return;
     }
 }
